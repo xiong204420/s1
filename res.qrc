@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/down.svg</file>
+        <file>images/left.svg</file>
+        <file>images/right.svg</file>
+        <file>images/up.svg</file>
+        <file>images/logo.jpg</file>
+        <file>images/logo-ico.png</file>
+        <file>images/MQTT.svg</file>
+        <file>images/icon_MQTT.svg</file>
+        <file>images/dvr4.svg</file>
+        <file>images/dvr.svg</file>
+    </qresource>
+</RCC>
